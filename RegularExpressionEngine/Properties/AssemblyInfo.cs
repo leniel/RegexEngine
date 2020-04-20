@@ -8,10 +8,10 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("Regular Expression Engine")]
 [assembly: AssemblyDescription("A Regular Expression Engine built in C#")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("http://leniel.net")]
+[assembly: AssemblyCompany("https://leniel.net")]
 [assembly: AssemblyProduct("Regular Expression Engine")]
 [assembly: AssemblyCopyright("2006")]
-[assembly: AssemblyTrademark("Leniel Braz de Oliveira Macaferi & Wellington Magalhães Leite")]
+[assembly: AssemblyTrademark("Leniel Braz de Oliveira Maccaferri & Wellington Magalhães Leite")]
 [assembly: AssemblyCulture("")]
 
 // Setting ComVisible to false makes the types in this assembly not visible 
