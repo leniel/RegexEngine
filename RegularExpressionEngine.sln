@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegularExpressionEngine", "RegularExpressionEngine\RegularExpressionEngine.csproj", "{F710B125-E605-424E-9810-1C9269ACE3EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		DebugSnk|Any CPU = DebugSnk|Any CPU
+		Release|Any CPU = Release|Any CPU
+		ReleaseSnk|Any CPU = ReleaseSnk|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F710B125-E605-424E-9810-1C9269ACE3EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F710B125-E605-424E-9810-1C9269ACE3EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F710B125-E605-424E-9810-1C9269ACE3EC}.DebugSnk|Any CPU.ActiveCfg = Debug|Any CPU
+		{F710B125-E605-424E-9810-1C9269ACE3EC}.DebugSnk|Any CPU.Build.0 = Debug|Any CPU
+		{F710B125-E605-424E-9810-1C9269ACE3EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F710B125-E605-424E-9810-1C9269ACE3EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F710B125-E605-424E-9810-1C9269ACE3EC}.ReleaseSnk|Any CPU.ActiveCfg = Release|Any CPU
+		{F710B125-E605-424E-9810-1C9269ACE3EC}.ReleaseSnk|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
